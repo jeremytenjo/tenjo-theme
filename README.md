@@ -1,1 +1,1 @@
-# Tenjo VScode theme
+# My vscode theme
