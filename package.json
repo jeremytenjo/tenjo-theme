@@ -1,10 +1,16 @@
 {
   "name": "tenjo-theme",
   "displayName": "tenjo-theme",
-  "description": "Tenjo theme",
-  "version": "0.0.1",
+  "description": "Tenjo vscode theme",
+  "version": "0.1.0",
+  "publisher": "tenjojeremy",
   "engines": {
     "vscode": "^1.43.0"
+  },
+  "icon": "assets/images/logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeremytenjo/tenjo-theme"
   },
   "categories": [
     "Themes"
