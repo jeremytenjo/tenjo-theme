@@ -15,6 +15,9 @@
   "categories": [
     "Themes"
   ],
+  "scripts": {
+    "publish": "vsce publish minor"
+  },
   "contributes": {
     "themes": [
       {
