@@ -3,9 +3,13 @@
   "type": "dark",
   "tokenColors": [
     {
+      "name": "Properties",
+      "scope": [
+        "variable.other.property.js",
+        "variable.other.property.static.js"
+      ],
       "settings": {
-        "background": "#292D3E",
-        "foreground": "#ffffff"
+        "foreground": "#89c5bd"
       }
     },
     {
@@ -204,7 +208,6 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "fontStyle": "normal",
         "foreground": "#C3E88D"
       }
     },
