@@ -2,7 +2,7 @@
   "name": "tenjo-theme",
   "displayName": "tenjo-theme",
   "description": "Tenjo vscode theme",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "publisher": "tenjojeremy",
   "engines": {
     "vscode": "^1.43.0"
