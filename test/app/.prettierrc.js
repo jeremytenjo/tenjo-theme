@@ -136,3 +136,13 @@ DisclaimerDialogue.propTypes = {
   disclaimerData: PropTypes.object,
   isLight: PropTypes.bool,
 };
+
+return create({
+  base: 'dark',
+  brandUrl: 'https://github.com/tenjojeremy/tenjo-apps',
+  colorSecondary: primary,
+  brandImage: 'https://useweb-lib.web.app/banner-sb.svg',
+  ...storybook,
+})
+
+ReactDOM.render(<App />, document.getElementById('root'))
