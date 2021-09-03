@@ -13,6 +13,18 @@
       }
     },
     {
+      "name": "DarkGreen",
+      "scope": [
+        "variable.other.readwrite.shorthandpropertyname.js",
+        "constant.other.object.key.js",
+        "string.unquoted.js",
+        "meta.type.interface.graphql"
+      ],
+      "settings": {
+        "foreground": "#00e4d9"
+      }
+    },
+    {
       "name": "Comment",
       "scope": [
         "comment",
@@ -105,7 +117,10 @@
         "punctuation.definition.tag.end.html",
         "punctuation.section.embedded",
         "keyword.other.template",
-        "keyword.other.substitution"
+        "keyword.other.substitution",
+        "meta.brace.square.js",
+        "meta.function.arrow.js",
+        "meta.brace.round.js"
       ],
       "settings": {
         "foreground": "#89DDFF"
@@ -204,8 +219,7 @@
         "constant.other.key",
         "entity.other.inherited-class",
         "markup.heading",
-        "markup.inserted.git_gutter",
-        "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
+        "markup.inserted.git_gutter"
       ],
       "settings": {
         "foreground": "#C3E88D"
@@ -801,11 +815,9 @@
     "editorSuggestWidget.border": "#FFFFFF10",
     "editorWidget.background": "#1B1E2B",
     "editorWidget.resizeBorder": "#80CBC4",
-    "editorWidget.border": "",
     "editorMarkerNavigation.background": "#A6ACCD05",
     "panel.border": "#00000060",
     "panel.background": "#1B1E2B",
-    "panel.dropBackground": "#A6ACCD",
     "panelTitle.inactiveForeground": "#A6ACCD",
     "panelTitle.activeForeground": "#FFFFFF",
     "panelTitle.activeBorder": "#80CBC4",
