@@ -219,7 +219,8 @@
         "constant.other.key",
         "entity.other.inherited-class",
         "markup.heading",
-        "markup.inserted.git_gutter"
+        "markup.inserted.git_gutter",
+        "JSXNested"
       ],
       "settings": {
         "foreground": "#C3E88D"
