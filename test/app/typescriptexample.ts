@@ -1,4 +1,4 @@
-const colors = {
+const colors: any = {
     primary: {
       main: '#5D59FF',
       light: '#EAEAFF',
@@ -25,3 +25,6 @@ const colors = {
   
   export default colors
   
+export const hello = (storybookDefaultPlugins) => {
+  console.log(storybookDefaultPlugins)
+}

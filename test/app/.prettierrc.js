@@ -190,3 +190,6 @@ colors.themeColor = colors.black.main
 colors.backgroundColor = colors.black.main
 
 export default colors
+
+export default (storybookDefaultPlugins) => {}
+

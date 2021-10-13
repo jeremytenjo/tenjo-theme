@@ -43,7 +43,8 @@
       "scope": [
         "variable",
         "variable.other.constant.ts",
-        "string constant.other.placeholder"
+        "string constant.other.placeholder",
+        "variable.parameter.ts"
       ],
       "settings": {
         "foreground": "#A6ACCD"
