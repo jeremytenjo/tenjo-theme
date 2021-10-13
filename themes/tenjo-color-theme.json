@@ -6,6 +6,7 @@
       "name": "Properties",
       "scope": [
         "variable.other.property.js",
+        "variable.other.property.ts",
         "variable.other.property.static.js"
       ],
       "settings": {
@@ -18,7 +19,8 @@
         "variable.other.readwrite.shorthandpropertyname.js",
         "constant.other.object.key.js",
         "string.unquoted.js",
-        "meta.type.interface.graphql"
+        "meta.type.interface.graphql",
+        "meta.object.member.ts"
       ],
       "settings": {
         "foreground": "#00e4d9"
@@ -37,9 +39,10 @@
       }
     },
     {
-      "name": "Variables",
+      "name": "Variables Grey",
       "scope": [
         "variable",
+        "variable.other.constant.ts",
         "string constant.other.placeholder"
       ],
       "settings": {
