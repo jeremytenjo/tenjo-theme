@@ -28,3 +28,5 @@ const colors: any = {
 export const hello = (storybookDefaultPlugins) => {
   console.log(storybookDefaultPlugins)
 }
+
+setTotalRepetitions: (newValue) => set(() => ({ totalRepetitions: newValue })),
