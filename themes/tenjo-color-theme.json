@@ -7,6 +7,7 @@
       "scope": [
         "variable.other.property.js",
         "variable.other.property.ts",
+        "variable.other.property.tsx",
         "variable.other.property.static.js"
       ],
       "settings": {
@@ -20,7 +21,8 @@
         "constant.other.object.key.js",
         "string.unquoted.js",
         "meta.type.interface.graphql",
-        "meta.object.member.ts"
+        "meta.object.member.ts",
+        "meta.object.member.tsx"
       ],
       "settings": {
         "foreground": "#00e4d9"
@@ -226,7 +228,9 @@
         "entity.other.inherited-class",
         "markup.heading",
         "markup.inserted.git_gutter",
-        "JSXNested"
+        "JSXNested",
+        "meta.tag.without-attributes.tsx",
+        "meta.jsx.children.tsx"
       ],
       "settings": {
         "foreground": "#C3E88D"
