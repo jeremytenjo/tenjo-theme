@@ -8,7 +8,8 @@
         "variable.other.property.js",
         "variable.other.property.ts",
         "variable.other.property.tsx",
-        "variable.other.property.static.js"
+        "variable.other.property.static.js",
+        "meta.parameters.tsx"
       ],
       "settings": {
         "foreground": "#89c5bd"
@@ -22,7 +23,9 @@
         "string.unquoted.js",
         "meta.type.interface.graphql",
         "meta.object.member.ts",
-        "meta.object.member.tsx"
+        "meta.object.member.tsx",
+        "variable.parameter.ts",
+        "variable.parameter.tsx"
       ],
       "settings": {
         "foreground": "#00e4d9"
@@ -46,9 +49,7 @@
         "variable",
         "variable.other.constant.ts",
         "variable.other.constant.tsx",
-        "string constant.other.placeholder",
-        "variable.parameter.ts",
-        "variable.parameter.tsx"
+        "string constant.other.placeholder"
       ],
       "settings": {
         "foreground": "#A6ACCD"

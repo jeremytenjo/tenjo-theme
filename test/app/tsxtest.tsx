@@ -45,7 +45,7 @@ const groupNameStyle = {
   opacity: 0.5,
 }
 
-const App = () => {
+const App = ({hello}) => {
   useAnalytics()
   // const history = useHistory()
 
