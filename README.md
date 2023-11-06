@@ -8,6 +8,11 @@
 
 <img width="800" src="https://github.com/jeremytenjo/tenjo-theme/blob/master/assets/images/demo/css.png?raw=truedemo" alt="css example">
 
+## How to debug
+
+1. Open Run and Debug
+2. Click `Run Extension`
+
 ## How to edit colors
 
 For more information on how to use the scope inspector, please refer to the [official documentation](https://code.visualstudio.com/api/language-extensions/syntax-highlight-guide#scope-inspector).
