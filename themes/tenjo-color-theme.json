@@ -482,7 +482,7 @@
       "name": "Markdown - Line Break",
       "scope": ["text.html.markdown meta.dummy.line-break"],
       "settings": {
-        "foreground": ""
+        "foreground": "#C792EA"
       }
     },
     {
@@ -539,8 +539,8 @@
       "name": "Markup - Strike",
       "scope": ["markup.strike"],
       "settings": {
-        "fontStyle": "strike",
-        "foreground": ""
+        "fontStyle": "italic",
+        "foreground": "#C792EA"
       }
     },
     {
@@ -555,7 +555,7 @@
       "scope": ["markup.quote"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": ""
+        "foreground": "#C792EA"
       }
     },
     {
