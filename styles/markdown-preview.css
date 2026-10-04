@@ -1,0 +1,10 @@
+/* Keep the rendered Markdown readable without changing editor token colors. */
+body[data-vscode-theme-id='Tenjo'] .markdown-body,
+body[data-vscode-theme-id='Tenjo'] .markdown-body h1,
+body[data-vscode-theme-id='Tenjo'] .markdown-body h2,
+body[data-vscode-theme-id='Tenjo'] .markdown-body h3,
+body[data-vscode-theme-id='Tenjo'] .markdown-body h4,
+body[data-vscode-theme-id='Tenjo'] .markdown-body h5,
+body[data-vscode-theme-id='Tenjo'] .markdown-body h6 {
+  color: #eeffff;
+}

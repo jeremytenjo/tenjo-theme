@@ -16,9 +16,13 @@
     "Themes"
   ],
   "scripts": {
+    "dev": "\"/Applications/Visual Studio Code - Insiders.app/Contents/Resources/app/bin/code\" --new-window --extensionDevelopmentPath=. ./test/app",
     "publish": "vsce publish minor"
   },
   "contributes": {
+    "markdown.previewStyles": [
+      "./styles/markdown-preview.css"
+    ],
     "themes": [
       {
         "label": "Tenjo",
